@@ -1,4 +1,4 @@
-## Create a course selling app
+### Create a course selling app
 Add Express, jsonwebtoken, mongoose to it as a dependency
 Initialize a new Node.js project
 Create index.js
